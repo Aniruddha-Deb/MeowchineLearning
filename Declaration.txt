@@ -1,0 +1,18 @@
+The work submitted is completely our/mine own.
+
+The open-source libraries involved in training and running this model include:
+- Pandas
+- Numpy
+- Torch and Torchvision
+All these fall under the BSD-3 license, a copy of which is not required to be attached with this work (as this work neither bundles the source code nor the binary)
+The licensing criteria of this work itself is detailed in License.txt
+
+The following resources were used as assistance or to gain insights:
+1. SoML lectures
+2. Convolutional neural network concepts: https://towardsdatascience.com/conv2d-to-finally-understand-what-happens-in-the-forward-pass-1bbaafb0b148
+3. PyTorch MNIST CNN classification: https://nextjournal.com/gkoehler/pytorch-mnist
+4. PyTorch official documentation: https://pytorch.org/docs/stable/index.html
+5. Understanding the Dropout Layer: Nitish Srtivastava, Geoffrey Hinton et al. https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf
+6. StackOverFlow (too many to quote)
+7. Towards Data Science (again, too many to quote)
+8. Pandas API reference: https://pandas.pydata.org/pandas-docs/stable/reference/
