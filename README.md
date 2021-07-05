@@ -136,6 +136,10 @@ as well. Finally, thanks to all the online resources we used, and to Kaggle and
 Colab for hosting our data and running our programs without complaint, when we 
 would reload the same model multiple times, hoping for the accuracy to change.
 
+If you've read this far, the entire dataset, along with our notebooks, can be
+found [on kaggle](https://www.kaggle.com/aniruddhadeb/soml-hackathon). Happy
+hacking!
+
 ## Appendix: CNN topology
 
 The CNN used was structured somewhat like this:
